@@ -1,0 +1,40 @@
+{
+    "request": {
+        "type": "Zipcode",
+        "query": "07008",
+        "language": "en",
+        "unit": "m"
+    },
+    "location": {
+        "name": "New York",
+        "country": "United States of America",
+        "region": "New York",
+        "lat": "40.713",
+        "lon": "-74.006",
+        "timezone_id": "America/New_York",
+        "localtime": "2025-10-02 00:32",
+        "localtime_epoch": 1727843520,
+        "utc_offset": "-4.0"
+    },
+    "current": {
+        "observation_time": "04:32 AM",
+        "temperature": 18,
+        "weather_code": 113,
+        "weather_icons": [
+            "https://cdn.weatherstack.com/icons/ml/c1.png"
+        ],
+        "weather_descriptions": [
+            "Clear"
+        ],
+        "wind_speed": 10,
+        "wind_degree": 270,
+        "wind_dir": "W",
+        "pressure": 1012,
+        "precip": 0,
+        "humidity": 60,
+        "cloudcover": 0,
+        "feelslike": 18,
+        "uv_index": 1,
+        "visibility": 16
+    }
+}
